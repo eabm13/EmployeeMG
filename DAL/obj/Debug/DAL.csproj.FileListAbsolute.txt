@@ -1,0 +1,9 @@
+d:\documentos\visual studio 2017\Projects\EmployeesMG\DAL\bin\Debug\DAL.dll
+d:\documentos\visual studio 2017\Projects\EmployeesMG\DAL\bin\Debug\DAL.pdb
+d:\documentos\visual studio 2017\Projects\EmployeesMG\DAL\bin\Debug\Model.dll
+d:\documentos\visual studio 2017\Projects\EmployeesMG\DAL\bin\Debug\Newtonsoft.Json.dll
+d:\documentos\visual studio 2017\Projects\EmployeesMG\DAL\bin\Debug\Model.pdb
+d:\documentos\visual studio 2017\Projects\EmployeesMG\DAL\bin\Debug\Newtonsoft.Json.xml
+d:\documentos\visual studio 2017\Projects\EmployeesMG\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+d:\documentos\visual studio 2017\Projects\EmployeesMG\DAL\obj\Debug\DAL.dll
+d:\documentos\visual studio 2017\Projects\EmployeesMG\DAL\obj\Debug\DAL.pdb

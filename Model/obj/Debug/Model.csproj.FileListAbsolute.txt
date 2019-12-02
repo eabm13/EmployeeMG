@@ -1,0 +1,4 @@
+d:\documentos\visual studio 2017\Projects\EmployeesMG\Model\bin\Debug\Model.dll
+d:\documentos\visual studio 2017\Projects\EmployeesMG\Model\bin\Debug\Model.pdb
+d:\documentos\visual studio 2017\Projects\EmployeesMG\Model\obj\Debug\Model.dll
+d:\documentos\visual studio 2017\Projects\EmployeesMG\Model\obj\Debug\Model.pdb
